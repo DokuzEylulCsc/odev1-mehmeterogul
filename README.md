@@ -1,6 +1,10 @@
-# Ödev 1
-Dönemin ilk ödevi için, klasörde HTML dosyası olarak verilmiş web sayfası içerisinde,
-1.	“Topla” düğmesine basınca “Metin Kutusu 1“ ve “Metin Kutusu 2” içerisine yazılmış iki sayıyı toplayarak sonucu “alert()” metodunu kullanarak ekrana çıkaran JavaScript kodunu yazınız. 
-2.	“Yapıştır” düğmesine basınca “Metin Kutusu 3“ ve “Metin Kutusu 4” içerisine yazılmış iki metin değerini birleştirerek sonucu “alert()” metodunu kullanarak ekrana çıkaran JavaScript kodunu yazınız.
-3.	Web sayfanız açıldığında, başlığında (sekmede gözüken) ve içerisindeki ilk başlıkta (sayfanın üzerinde gözükecek şekilde) isminiz ve öğrenci numaranız yazılı olmalıdır.
-4.	(+1 puan bonus) İlk maddedeki toplama işleminin yapıldığı metin kutularına sadece nümerik karakterler (0, 1, 2, vb. sadece rakam) girilebilmesini sağlayan JavaScript kodunu ekleyiniz.
+# Yararlanılan Kaynaklar
+
+1-Yazılım Bilimi Youtube Kanalı
+https://www.youtube.com/watch?v=DstpyrHz3SE&list=PLIHume2cwmHclFqFCqEmI3hh4GipmiM8b&index=2
+2-webdeyim.wordpress.com
+https://webdeyim.wordpress.com/2012/09/06/javascript-form-bos-mu-kontrolu
+3-cevapy.com
+https://cevapy.com/400/html-fom-input-value-de%C4%9Ferlerini-javascript-ile-almak
+4-yazilimkodlama.com
+https://www.yazilimkodlama.com/web/javascript-toplama-ornegi
